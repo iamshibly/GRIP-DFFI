@@ -14,6 +14,6 @@ The `.ipynb` files are kept as the original source notebooks.
 
 ## Supplementary Document
 
-Download or view the supplementary document here:
+The supplementary document is available here:
 
-[Supplementary Document S1: Complete GRIP-DFFI Validation Tables and Robustness Analyses](Supplementary_Document_S1_Complete_GRIP_DFFI_Validation_Tables_and_Robustness_Analyses.pdf)
+[Supplementary Document S1: Complete GRIP-DFFI Validation Tables and Robustness Analyses](Supplementary%20Document%20S1_%20Complete%20GRIP-DFFI%20Validation%20Tables%20and%20Robustness%20Analyses.pdf)
